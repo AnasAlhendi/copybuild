@@ -1,0 +1,6 @@
+# Netscape HTTP Cookie File
+# This is a cookie jar used by ytjs.
+# Format: domain	flag	path	secure	expiration	name	value
+# Example for YouTube consent (replace with your actual values or export from your browser):
+# .youtube.com	TRUE	/	TRUE	2000000000	CONSENT	YES+cb
+

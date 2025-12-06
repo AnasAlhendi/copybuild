@@ -1,0 +1,16 @@
+{
+  "name": "youtube-dl-js",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Minimal JS scaffold mirroring youtube-dl architecture (WIP)",
+  "bin": {
+    "ytdl-js": "cmd/ytdl-js/index.js"
+  },
+  "scripts": {
+    "test": "node tests/run.js"
+  },
+  "type": "commonjs",
+  "engines": {
+    "node": ">=18"
+  }
+}
